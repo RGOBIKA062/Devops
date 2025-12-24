@@ -1,2 +1,4 @@
 This is Sample.txt from branch C
 This is Sample.txt from branch A
+This is sample.txt from branch B
+
